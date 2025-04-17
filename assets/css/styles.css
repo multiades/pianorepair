@@ -174,8 +174,8 @@ body {
     }
   
     &>main {
-      width: 90vw;
-      margin: 1rem 5vw;
+      width: 80vw;
+      margin: 1rem 10vw;
     }
  
     &>footer {
