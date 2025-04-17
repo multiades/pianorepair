@@ -111,7 +111,7 @@ body {
     }
    
     &>img {
-      width: 75%;
+      width: 60%;
       align-self: center;
       border-radius: 4%;
     }
@@ -145,6 +145,7 @@ body {
     justify-content: flex-start;
     align-items: center;
     row-gap: 1rem;
+    color: white;
 
     &>p {
       padding: 1rem;
