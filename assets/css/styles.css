@@ -151,7 +151,7 @@ body {
       padding: 1rem;
       font-size: 1.5rem;
       border: 0.25rem solid white;
-      border-radius: 6%;
+      border-radius: 16px;
       box-shadow: 0 0.25rem 0.5rem white;
    
       &:first-child {
